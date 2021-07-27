@@ -13,7 +13,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=AAAAzzvbKSM:APA91bF4-MlScdceLRYUDn1WkwrVf1bZ8WHY84j_fgxYAfHrDeZ_b-Uhu1mYk8a6YtWhexi8DlmMhjOLokmMDEIv7Pe0mTBJIdU5G2Woq_UgKT7O4uqLtGFXGqcSYZmci0TjKr-krMH_"
+                    "Authorization:key=Tokan will be added here"
             }
     )
 
