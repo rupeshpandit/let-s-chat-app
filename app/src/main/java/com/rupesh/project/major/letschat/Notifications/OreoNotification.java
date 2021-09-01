@@ -13,7 +13,7 @@ import android.os.Build;
 public class OreoNotification extends ContextWrapper {
 
     private static final String CHANNEL_ID = "com.rupesh.project.major.letschat";
-    private static final String CHANNEL_NAME = "chatapp";
+    private static final String CHANNEL_NAME = "letschat";
 
     private NotificationManager notificationManager;
 
